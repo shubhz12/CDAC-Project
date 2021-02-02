@@ -1,0 +1,9 @@
+.content {
+    max-width: 500px;
+    margin: auto;
+  }
+  body
+  {
+    background-color: lavender;
+    background-image: url("/assets/b11.jpg");
+  }

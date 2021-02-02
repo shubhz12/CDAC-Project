@@ -1,0 +1,59 @@
+<div class="card" style="margin-top: 20px;">
+    <div class="card-header">
+       
+        <h4>Edit Profile</h4>
+    </div>
+    
+    <div class="card-body">
+
+        <div class="form">
+
+            <div class="row">
+                
+                 <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="">Name</label>
+                        <input [(ngModel)]="FirstName" type="text" class="form-control">
+                    </div>
+                 </div>
+
+            </div>
+            
+            <div class="row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label for="Author">Contact No</label>
+                    <input [(ngModel)]="contact_no" type="text" class="form-control">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label for="Username">Username</label>
+                    <input [(ngModel)]="Username" type="text" class="form-control">
+                </div>
+             </div>
+            </div>
+
+
+           
+
+            <div class="form-group">
+                <label for="">Address</label>
+                <textarea [(ngModel)]="Address" rows="5" class="form-control"></textarea>
+            </div>
+        </div>
+        
+
+       <!--  <div class="form-group">
+            <input type="button" (click)="onUpload()" value="Upload Image">
+        </div> -->
+
+       
+
+
+    </div>
+    <div class="card-footer">
+        <button style="margin-right: 20px;"  class="btn btn-success">Save</button>
+        <a routerLink="/book-list" class="btn btn-danger">Cancel</a>
+    </div>
+</div>
