@@ -1,6 +1,0 @@
-C:\Users\ADMIN\source\repos\OnlineBookStoreapp\BOL\bin\Debug\BOL.dll
-C:\Users\ADMIN\source\repos\OnlineBookStoreapp\BOL\bin\Debug\BOL.pdb
-C:\Users\ADMIN\source\repos\OnlineBookStoreapp\BOL\obj\Debug\BOL.csprojAssemblyReference.cache
-C:\Users\ADMIN\source\repos\OnlineBookStoreapp\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
-C:\Users\ADMIN\source\repos\OnlineBookStoreapp\BOL\obj\Debug\BOL.dll
-C:\Users\ADMIN\source\repos\OnlineBookStoreapp\BOL\obj\Debug\BOL.pdb
